@@ -12,3 +12,8 @@ La cocina mediterránea es un conjunto de platos y métodos de preparación de l
 - Hidromiel
 - Vino
 - Kykeon
+
+## Consejos
+- Llenar la mitad del plato con frutas y verduras.
+- Utilizar hierbas aromáticas como tomillo, perejil, orégano, estragón, pimentón y comino
+- Consumir productos lácteos con moderación
