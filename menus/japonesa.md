@@ -13,3 +13,9 @@ La comida japonesa se caracteriza por su sencillez, elegancia y sabores naturale
 - Shochu
 - Umeshu
 - Whisky
+
+## Consejos
+- Come con palillos
+- Sorbe el caldo
+- Come en orden
+- Usa condimentos suaves
