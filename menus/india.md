@@ -11,3 +11,9 @@ suele consumir con cordero al finalizar el Ramadán (el mes del ayuno).
 - **Pollo tikka masala**: La base es pollo marinado con yogurt. Se cocina al horno con una salsa masala (“mezcla de especias”), 
 la cual contiene, entre otros ingredientes, tomate, ajo y leche de coco. Estos aportan cremosidad y un sabor aromático. 
 
+## Bebidas Recomendadas
+- Lassi de mango
+- Masala Chai
+- Dudh Badam
+
+
