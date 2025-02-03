@@ -12,3 +12,8 @@ La cocina vegetariana es un estilo de alimentación que se basa en el consumo de
 - Cocktail de Kombucha y frutas
 - Milkshake vegano de chocolate y cerezas
 - Batido de espinacas y zanahoria
+
+## Consejos
+- Incluir fuentes de proteínas, hierro, calcio, zinc y vitamina B12 en tu dieta.
+- Incluir verduras y frutas en las comidas diarias
+- Reducir el consumo de alimentos con alto contenido de grasa, azúcar y sal
