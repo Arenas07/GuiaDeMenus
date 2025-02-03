@@ -13,3 +13,9 @@ La gastronomía mexicana es el conjunto de platillos y técnicas culinarias de M
 - Mezcal
 - Bacanora
 - Charanda
+
+## Consejos
+- Agrégale chilito a las frutas.
+- A menos que se trate de un platillo líquido como sopa, crema o mole, entonces utiliza una tortilla.
+- Las comidas saben mejor si les agregas limón
+- Utiliza el queso en todas y cada una de sus formas para multiplicar el sabor de tus comidas.
