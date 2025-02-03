@@ -16,4 +16,9 @@ la cual contiene, entre otros ingredientes, tomate, ajo y leche de coco. Estos a
 - Masala Chai
 - Dudh Badam
 
+## Consejos
+- La comida india suele ser picante, por lo que puedes pedir "mirchi nají" o "no spice" para que no te la sirvan picante. 
+- La comida india puede variar según la región. 
+- La comida callejera india puede ser deliciosa, pero también puede causar intoxicación alimentaria. 
+
 
