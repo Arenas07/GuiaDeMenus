@@ -14,3 +14,8 @@ Los postres son preparaciones dulces o agridulces que se sirven al final de una 
 - Té de menta
 - Café negro
 - Soda con toques de limón
+
+## Consejos
+- Ingredientes a temperatura ambiente
+- La temperatura del horno es la clave
+- Dejar atemperar antes de decorar
