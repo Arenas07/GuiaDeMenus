@@ -12,3 +12,9 @@ La carne es un alimento nutritivo que se obtiene de los músculos, tendones y li
 - Vino tinto
 - Cervezas
 - Cócteles
+
+## Consejos
+- Busca carne con un color rojo brillante, similar al de una cereza. 
+- Evita la carne con un color café o negruzco. 
+- Revisa que la carne tenga una textura firme. 
+- Asegúrate de que la carne tenga un olor fresco y agradable. 
