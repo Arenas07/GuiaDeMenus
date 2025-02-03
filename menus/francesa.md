@@ -12,3 +12,8 @@ La comida francesa se caracteriza por su refinamiento, elegancia y variedad de s
 - Pastis
 - Licor de cassis
 - Chartreuse
+
+## Consejos
+- Prestar atención a la presentación 
+- Aprende técnicas como el Bain Marie, que consiste en cocinar los alimentos suavemente mediante vapor. 
+- La presentación y decoración de los platos son fundamentales en la gastronomía francesa.
