@@ -13,3 +13,8 @@ A la comida China se le da un sentido del gusto con las artes culinarias basánd
 - Té con leche y tapioca
 - Whisky con té verde
 - Jiuniang o vino de arroz fermentado
+
+## Consejos
+- Usa palillos chinos o una mano para quitarte los huesos y otros restos de comida.
+- Prueba a comer solo del arroz, que absorbe los jugos de la comida.
+- Comparte la comida con los demás comensales.
