@@ -7,3 +7,8 @@ La cocina mediterránea es un conjunto de platos y métodos de preparación de l
 - **Baba Ganoush**: Pasta a base de berenjenas asadas mezcladas con jugo de limón, tahini y especias, como comino.
 - **Bouillabaisse**: Sopa tradicional de la región francesa de Provenza a base de pescados, mariscos y verduras como puerros, tomates y ajo, y hierbas y especias.
 - **Briami griego**: Plato vegetariano tradicional griego que consiste en una cazuela de verduras al horno. Los ingredientes básicos son calabacín, patatas, cebolla, tomates, entre otros.
+
+## Bebidas Recomendadas
+- Hidromiel
+- Vino
+- Kykeon
